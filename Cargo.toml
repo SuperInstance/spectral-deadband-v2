@@ -1,0 +1,6 @@
+[package]
+name = "spectral-deadband-v2"
+version = "0.1.0"
+edition = "2021"
+description = "Experimental refinement: the thermostat deadband IS the spectral gap"
+license = "MIT"
